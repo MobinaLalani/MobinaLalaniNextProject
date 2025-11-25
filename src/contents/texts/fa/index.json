@@ -1,0 +1,35 @@
+{
+  "app": {
+    "title": "مینی پروژه فرانت‌اند",
+    "description": "فرم با اعتبارسنجی، داشبورد داده، و تم تاریک/روشن",
+    "header": "مینی پروژه"
+  },
+  "home": {
+    "title": "فرانت‌اند مینی پروژه",
+    "description": "فرم با اعتبارسنجی، داشبورد داده، و تم تاریک/روشن",
+    "viewDashboard": "مشاهده داشبورد"
+  },
+  "form": {
+    "title": "فرم تماس",
+    "nameLabel": "نام",
+    "emailLabel": "ایمیل",
+    "messageLabel": "پیام",
+    "emailPlaceholder": "email@example.com",
+    "messagePlaceholder": "پیام خود را وارد کنید",
+    "submit": "ارسال",
+    "success": "ارسال شد",
+    "errors": {
+      "nameMin": "نام حداقل ۲ کاراکتر باشد",
+      "emailValid": "ایمیل معتبر وارد کنید",
+      "messageMin": "پیام حداقل ۱۰ کاراکتر"
+    }
+  },
+  "dashboard": {
+    "title": "داشبورد",
+    "description": "دریافت داده از Public API",
+    "error": "خطا در دریافت داده"
+  },
+  "theme": {
+    "toggleLabel": "تغییر تم"
+  }
+}
